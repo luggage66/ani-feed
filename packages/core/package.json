@@ -1,6 +1,6 @@
 {
   "name": "@ani-feed/core",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.2-alpha.0",
   "description": "Core package for meanie",
   "main": "dist/src/index.js",
   "devDependencies": {
@@ -28,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/SaitamaSama/meanie/issues"
   },
-  "homepage": "https://github.com/SaitamaSama/meanie#readme"
+  "homepage": "https://github.com/SaitamaSama/meanie#readme",
+  "gitHead": "792ce56aab32059cd4a4c7d6c25a1cb819515984"
 }

@@ -1,10 +1,10 @@
 {
   "name": "@ani-feed/cli",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.2-alpha.0",
   "description": "CLI frontend for @meanie/core",
   "main": "dist/src/index.js",
   "dependencies": {
-    "@ani-feed/core": "^0.0.1-alpha.0"
+    "@ani-feed/core": "^0.0.2-alpha.0"
   },
   "devDependencies": {
     "rimraf": "3.0.2",
@@ -31,5 +31,6 @@
   "bugs": {
     "url": "https://github.com/SaitamaSama/meanie/issues"
   },
-  "homepage": "https://github.com/SaitamaSama/meanie#readme"
+  "homepage": "https://github.com/SaitamaSama/meanie#readme",
+  "gitHead": "792ce56aab32059cd4a4c7d6c25a1cb819515984"
 }
