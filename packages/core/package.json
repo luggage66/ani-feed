@@ -2,7 +2,7 @@
   "name": "@ani-feed/core",
   "version": "0.0.2-alpha.0",
   "description": "Core package for meanie",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "types": "dist/index",
   "files": [
     "dist"
