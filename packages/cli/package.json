@@ -1,0 +1,35 @@
+{
+  "name": "@ani-feed/cli",
+  "version": "0.0.1",
+  "description": "CLI frontend for @meanie/core",
+  "main": "dist/src/index.js",
+  "dependencies": {
+    "@ani-feed/core": "0.0.1"
+  },
+  "devDependencies": {
+    "rimraf": "3.0.2",
+    "typescript": "3.4.3"
+  },
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "compile": "tsc -p tsconfig.build.json",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf -rf ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaitamaSama/ani-feed.git"
+  },
+  "keywords": [
+    "anime",
+    "torrent",
+    "rss"
+  ],
+  "author": "Gourab Nag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaitamaSama/meanie/issues"
+  },
+  "homepage": "https://github.com/SaitamaSama/meanie#readme"
+}

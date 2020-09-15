@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.build.json",
+
+  "compilerOptions": {
+    "baseUrl": "./packages",
+    "paths": {
+      "@ani-feed/core": ["core/src"],
+      "@ani-feed/cli": ["cli/src"],
+      "@ani-feed/ui": ["ui/src"]
+    }
+  }
+}
