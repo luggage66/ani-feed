@@ -1,6 +1,6 @@
 {
   "name": "@ani-feed/core",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "Core package for meanie",
   "main": "dist/src/index.js",
   "devDependencies": {

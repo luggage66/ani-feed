@@ -1,6 +1,6 @@
 {
   "name": "@ani-feed/ui",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "React UI package for @meanie/core",
   "main": "dist/src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SaitamaSama/ani-feed.git"
   },
   "dependencies": {
-    "@ani-feed/core": "0.0.1"
+    "@ani-feed/core": "^0.0.1-alpha.0"
   },
   "keywords": [
     "anime",

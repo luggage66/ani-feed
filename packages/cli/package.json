@@ -1,10 +1,10 @@
 {
   "name": "@ani-feed/cli",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "CLI frontend for @meanie/core",
   "main": "dist/src/index.js",
   "dependencies": {
-    "@ani-feed/core": "0.0.1"
+    "@ani-feed/core": "^0.0.1-alpha.0"
   },
   "devDependencies": {
     "rimraf": "3.0.2",
